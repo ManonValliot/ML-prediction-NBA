@@ -1,0 +1,21 @@
+CustomFooter {
+    background: rgba(51, 52, 56, 0.863);
+    color: rgb(255, 255, 255);
+}
+
+#app-title {
+    color: rgba(255, 166, 0, 0.843);
+    background: rgb(31, 30, 30);
+}
+
+#team_home {
+    margin: 2 0;
+}
+
+#team_visitor {
+    margin: 2 0;
+}
+
+Static {
+    margin: 0 1;
+}
