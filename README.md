@@ -4,6 +4,9 @@ Ce projet porte sur la création d'une application permettant de trouver l'issue
 
 # Démonstration
 
+Afin de visualiser l'application, voici une déémonstration de son application :
+
 [Démonstration](https://user-images.githubusercontent.com/94387843/213753409-32e3f555-7666-4ffa-a3bc-a8fc76fcc350.mov)
+
 
 
