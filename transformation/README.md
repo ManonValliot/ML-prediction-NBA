@@ -15,7 +15,7 @@ Afin de perfectionner les prédictions, la méthode d'évaluation Élo des équi
 
 # Utilisation
 
-Pour se faire, veuillez importer les éléments ci-dessous.
+Veuillez importer les éléments ci-dessous.
 ```bash
 import pandas as pd
 from lib_transformation import transformation_dataframe
