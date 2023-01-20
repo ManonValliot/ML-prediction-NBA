@@ -6,7 +6,7 @@ import pandas as pd
 from lib_transformation import transformation_dataframe
 ```
 
-Pour lancer les transformations et récupérer la nouvelle base de données sous forme csv , veuillez lancer la fonction ci-dessous en indiquant le path de destination et le nombre de match sur lequel vous voulez appliquer les statistiques moyennes.
+Pour lancer les transformations et récupérer la nouvelle base de données sous forme csv , veuillez lancer la fonction ci-dessous en indiquant le path de destination et le nombre de matchs sur lequel vous voulez appliquer les statistiques moyennes.
 ```bash
 data = pd.read_csv('test.csv', sep = ';')
 transformation_dataframe(data, 5).to_csv('data.csv', index=False, header=True,sep=';',encoding='utf-8-sig')
