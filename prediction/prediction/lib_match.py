@@ -1,6 +1,6 @@
 """Description.
 
-Librairie qui construit un dataframe vide avec les même colonnes que le dataframe sur lequel sont entrainés les modèles.
+Librairie qui construit un dataframe avec les dernières statistiques moyennes et la dernière évaluation Élo des équipes que l'utilisateur a indiqué.
 """
 
 
