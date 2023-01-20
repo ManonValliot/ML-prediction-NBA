@@ -13,7 +13,7 @@ Librairie **lib_levenshtein.py**
 des tirets, des accents ou des caractères spéciaux, cela ne sera pas pris en compte dans le calcul du ratio de similitude.
 
 Librairie **lib_match.py**
-> Permet de construire un dataframe avec les dernières statistiques moyennes et la dernière évaluation Élo des équipes que l'utilisateur a indiquées.
+> Permet de construire un dataframe avec les dernières statistiques moyennes et la dernière évaluation Élo des équipes que l'utilisateur a indiqué.
 
 Librairie **lib_predictions.py**
 > Permet de prédire l'issue d'un match de saison régulière de NBA.
