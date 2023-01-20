@@ -1,5 +1,4 @@
-# Énoncé de la transformation
-
+# Énoncé du dossier 
 Cette librairie permet la phase de transformation de la base de données, récupérée sous forme de csv dans la partie scraping. Ces transfomations vont nous permettent de réaliser des prédictions sur l'issue des matchs. Plusieurs modifications ont alors été nécessaires. 
 
 ## Statistiques moyennes
