@@ -1,6 +1,6 @@
 # Utilisation
 
-Dans cette partie on transforme le dataframe, récupérer sous forme de csv dans la partie scraping, pour inclure les évaluations Elo des équipes de chaque match et pour remplacer les statistiques de chaque match par les statistiques moyennes des derniers match effectuer par les équipes. Pour se faire, veuillez importer les éléments ci-dessous.
+Dans cette partie on transforme le dataframe, récupérer sous forme de csv dans la partie scraping, pour inclure les évaluations Elo des équipes de chaque match et pour remplacer les statistiques de chaque match par les statistiques moyennes des derniers matchs effectués par les équipes. Pour se faire, veuillez importer les éléments ci-dessous.
 ```bash
 import pandas as pd
 from lib_transformation import transformation_dataframe
