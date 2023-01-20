@@ -1,3 +1,7 @@
+# Énoncé du dossier
+Ces librairies permettent la phase de scraping du site `basketball-referance.com` et de récupérer les données sous forme csv. Les données récoltées concernent les matchs de saisons régulières de NBA, de 2006 à 2023. L'outil utiliser pour cette étape est `selenium`. Nous avons décider d'utiliser ce package puisque la récupération des données sur ce site nécessite énormément de naviguations et de changements de page.
+
+
 # Utilisation
 
 Pour récupérer un csv avec les données des matchs de saison régulière de NBA, veuillez importer ces éléments ci-dessous.
