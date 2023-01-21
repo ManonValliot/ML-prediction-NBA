@@ -88,11 +88,11 @@ class MyApp(App):
         yield CustomFooter()
 
     def on_mount(self) -> None:
-        """Applique le focus sur lee premier input, à l'ouverture de l'application, pour que nous puissions commencer à taper tout de suite."""
+        """Applique le focus sur le premier input, à l'ouverture de l'application, pour que nous puissions commencer à taper tout de suite."""
         self.query_one("#team_home", Input).focus()
 
     async def on_input_changed(self) -> None:
-        """Lance la prédiction si les deux équipes sont indiquées, sinon nettoie la zone de résultat."""
+        """Lance la prédiction si les deux équipes sont indiquées, sinon nettoi la zone de résultat."""
         if self.team_home.value and self.team_visitor.value:
             team_home = attribution_teams(self.team_home.value, 0.75, TEAMS)
             team_visitor = attribution_teams(self.team_visitor.value, 0.75, TEAMS)
