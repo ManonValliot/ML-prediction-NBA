@@ -12,7 +12,7 @@ Afin de visualiser l'application, voici une démonstration de son application :
 
 # Méthodologie des dossiers
 
-Pour résoudre de prédiction d'issue de match NBA, nous avons crées plusieurs dossiers.
+Pour résoudre le problème de prédiction d'issue de match NBA, nous avons crées plusieurs dossiers.
 
 Dossier **scraping**
 > Permet la phase de scraping du site `basketball-referance.com` et de récupérer les données sous forme csv.
